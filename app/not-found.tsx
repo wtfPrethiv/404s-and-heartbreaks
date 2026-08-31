@@ -21,7 +21,7 @@ const BAR_CELLS = [
   { width: 8.9, label: "404" },
   { width: 8.3, label: "NOT FOUND", hideOnNarrow: true },
   { width: 8.3, label: "ETA — NEVER", hideOnNarrow: true },
-  { width: 48.8, label: "404s and heartbreaks™", brand: true },
+  { width: 48.8, label: "pr3thivv.lol", brand: true },
   { width: 14.5, label: "TEMPORAL DETOUR", hideOnNarrow: true },
   { width: TRAIL, label: "EN", hideOnNarrow: true },
   { width: TRAIL, label: "" },

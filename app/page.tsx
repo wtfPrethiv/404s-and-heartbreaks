@@ -161,7 +161,7 @@ export default function Home() {
           <div className="flex items-center gap-3 text-[11px]">
             <span className="text-neutral-400">404s and heartbreaks™</span>
             <span>•</span>
-            <span>A journey through the void</span>
+            <span>A collection of my personal 404 pages</span>
           </div>
 
           <div className="flex items-center gap-4 text-[11px]">
